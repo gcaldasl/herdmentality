@@ -1,0 +1,77 @@
+# Efeito Manada — full stack behind one port.
+#
+#   docker compose up --build          # then open http://localhost:3000
+#   ngrok http 3000                    # share the whole app through one tunnel
+#
+# Only `proxy` publishes a port; `web` and `api` are reachable only on the
+# internal network.
+
+# Docker Desktop injects HTTP(S)_PROXY into containers, and Caddy's reverse_proxy
+# (Go's http.Transport) would then route inter-container traffic through that
+# proxy and fail. Nothing here needs outbound internet at runtime, so disable it.
+x-noproxy: &noproxy
+  HTTP_PROXY: ""
+  HTTPS_PROXY: ""
+  http_proxy: ""
+  https_proxy: ""
+  NO_PROXY: "*"
+  no_proxy: "*"
+
+services:
+  api:
+    build: ./backend
+    environment:
+      <<: *noproxy
+      DATABASE_URL: "sqlite:////data/herd.db"
+      # Same-origin behind the proxy, so CORS never triggers; kept permissive anyway.
+      CORS_ORIGINS: "*"
+      WIN_TARGET: "8"
+      MAX_PLAYERS: "6"
+    volumes:
+      - herd-data:/data
+    expose:
+      - "8000"
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://127.0.0.1:8000/health').status==200 else 1)"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+      start_period: 20s
+    restart: unless-stopped
+
+  web:
+    build: ./frontend
+    environment:
+      <<: *noproxy
+    expose:
+      - "3000"
+    depends_on:
+      api:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://127.0.0.1:3000/"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+      start_period: 15s
+    restart: unless-stopped
+
+  proxy:
+    image: caddy:2-alpine
+    environment:
+      <<: *noproxy
+    # Host port is configurable (PORT=8080 docker compose up); container port
+    # stays 3000, which is what the Caddyfile listens on and what you ngrok.
+    ports:
+      - "${PORT:-3000}:3000"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+    depends_on:
+      web:
+        condition: service_healthy
+      api:
+        condition: service_healthy
+    restart: unless-stopped
+
+volumes:
+  herd-data:

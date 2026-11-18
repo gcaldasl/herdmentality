@@ -1,0 +1,1362 @@
+[
+  {
+    "id": 1,
+    "category": "name-a",
+    "text": "Diga uma fruta amarela que quase todo mundo escolheria."
+  },
+  {
+    "id": 2,
+    "category": "name-a",
+    "text": "Diga um animal de fazenda que provavelmente seria a resposta mais popular."
+  },
+  {
+    "id": 3,
+    "category": "name-a",
+    "text": "Diga um jogo de tabuleiro que quase todo mundo conhece."
+  },
+  {
+    "id": 4,
+    "category": "name-a",
+    "text": "Diga um super-herói que seria uma escolha óbvia."
+  },
+  {
+    "id": 5,
+    "category": "name-a",
+    "text": "Diga um filme da Disney que quase todo mundo já ouviu falar."
+  },
+  {
+    "id": 6,
+    "category": "name-a",
+    "text": "Diga uma raça de cachorro que você acha que seria muito escolhida."
+  },
+  {
+    "id": 7,
+    "category": "name-a",
+    "text": "Diga um esporte jogado com bola que venha imediatamente à cabeça."
+  },
+  {
+    "id": 8,
+    "category": "name-a",
+    "text": "Diga um instrumento musical que quase todo mundo conhece."
+  },
+  {
+    "id": 9,
+    "category": "name-a",
+    "text": "Diga uma rede de fast-food que provavelmente seria escolhida pela maioria."
+  },
+  {
+    "id": 10,
+    "category": "name-a",
+    "text": "Diga um estado brasileiro que seria uma resposta comum."
+  },
+  {
+    "id": 11,
+    "category": "name-a",
+    "text": "Diga uma capital europeia que quase todo mundo lembraria."
+  },
+  {
+    "id": 12,
+    "category": "name-a",
+    "text": "Diga um pássaro que provavelmente apareceria entre as respostas mais populares."
+  },
+  {
+    "id": 13,
+    "category": "name-a",
+    "text": "Diga um jogo de cartas que quase todo mundo conhece."
+  },
+  {
+    "id": 14,
+    "category": "name-a",
+    "text": "Diga um tipo de massa que você apostaria que muita gente escolheria."
+  },
+  {
+    "id": 15,
+    "category": "name-a",
+    "text": "Diga um país da África que seja imediatamente lembrado."
+  },
+  {
+    "id": 16,
+    "category": "name-a",
+    "text": "Diga um país que começa com a letra B."
+  },
+  {
+    "id": 17,
+    "category": "name-a",
+    "text": "Diga um vilão de cinema que quase todo mundo reconheceria."
+  },
+  {
+    "id": 18,
+    "category": "name-a",
+    "text": "Diga um felino selvagem que provavelmente seria uma resposta popular."
+  },
+  {
+    "id": 19,
+    "category": "name-a",
+    "text": "Diga uma profissão que normalmente exige uniforme."
+  },
+  {
+    "id": 20,
+    "category": "name-a",
+    "text": "Diga um sabor de salgadinho de pacote que provavelmente venceria a votação."
+  },
+  {
+    "id": 21,
+    "category": "name-a",
+    "text": "Diga um filme de Natal que muita gente escolheria."
+  },
+  {
+    "id": 22,
+    "category": "name-a",
+    "text": "Diga um personagem de desenho animado que quase todo mundo conhece."
+  },
+  {
+    "id": 23,
+    "category": "name-a",
+    "text": "Diga uma erva ou tempero que costuma aparecer na cozinha."
+  },
+  {
+    "id": 24,
+    "category": "name-a",
+    "text": "Diga um cientista famoso que quase todo mundo reconheceria pelo nome."
+  },
+  {
+    "id": 25,
+    "category": "name-a",
+    "text": "Diga um animal que você esperaria encontrar em um zoológico."
+  },
+  {
+    "id": 26,
+    "category": "name-a",
+    "text": "Diga uma marca de chocolate que provavelmente seria escolhida pela maioria."
+  },
+  {
+    "id": 27,
+    "category": "name-a",
+    "text": "Diga um rio famoso que quase todo mundo já ouviu mencionar."
+  },
+  {
+    "id": 28,
+    "category": "name-a",
+    "text": "Diga um passo de dança que muita gente saberia citar."
+  },
+  {
+    "id": 29,
+    "category": "name-a",
+    "text": "Diga um mago ou bruxo de ficção que quase todo mundo conhece."
+  },
+  {
+    "id": 30,
+    "category": "name-a",
+    "text": "Diga uma música dos Beatles que provavelmente seria a mais lembrada."
+  },
+  {
+    "id": 31,
+    "category": "name-a",
+    "text": "Diga uma pintura famosa que quase todo mundo reconheceria."
+  },
+  {
+    "id": 32,
+    "category": "name-a",
+    "text": "Diga um meio de transporte que você usa ou vê com frequência."
+  },
+  {
+    "id": 33,
+    "category": "name-a",
+    "text": "Diga uma cor do arco-íris que provavelmente seria escolhida primeiro."
+  },
+  {
+    "id": 34,
+    "category": "name-a",
+    "text": "Diga um oceano que quase todo mundo conseguiria lembrar."
+  },
+  {
+    "id": 35,
+    "category": "name-a",
+    "text": "Diga um item que você não esqueceria de levar para um acampamento."
+  },
+  {
+    "id": 36,
+    "category": "opinion",
+    "text": "Qual é o melhor recheio de pizza — aquele que você apostaria que venceria uma votação?"
+  },
+  {
+    "id": 37,
+    "category": "opinion",
+    "text": "Qual tarefa doméstica você acha que a maioria das pessoas mais odeia?"
+  },
+  {
+    "id": 38,
+    "category": "opinion",
+    "text": "Qual seria um ótimo programa para um primeiro encontro?"
+  },
+  {
+    "id": 39,
+    "category": "opinion",
+    "text": "Qual é a melhor estação do ano, segundo a maioria das pessoas?"
+  },
+  {
+    "id": 40,
+    "category": "opinion",
+    "text": "Qual é o sabor de sorvete que você acha que mais gente escolheria?"
+  },
+  {
+    "id": 41,
+    "category": "opinion",
+    "text": "Qual é o melhor molho ou condimento para colocar na comida?"
+  },
+  {
+    "id": 42,
+    "category": "opinion",
+    "text": "Qual comida é mais superestimada?"
+  },
+  {
+    "id": 43,
+    "category": "opinion",
+    "text": "Qual recheio de pizza você acha que quase ninguém escolheria?"
+  },
+  {
+    "id": 44,
+    "category": "opinion",
+    "text": "Qual é a pior forma de ser acordado?"
+  },
+  {
+    "id": 45,
+    "category": "opinion",
+    "text": "Qual superpoder você acha que a maioria das pessoas escolheria?"
+  },
+  {
+    "id": 46,
+    "category": "opinion",
+    "text": "Qual seria o pior animal de estimação para ter em casa?"
+  },
+  {
+    "id": 47,
+    "category": "estimate",
+    "text": "Aproximadamente a que horas a maioria das pessoas costuma ir dormir?"
+  },
+  {
+    "id": 48,
+    "category": "estimate",
+    "text": "Quantas fatias de pizza você considera uma porção normal?"
+  },
+  {
+    "id": 49,
+    "category": "estimate",
+    "text": "Quantos pares de sapato você acha que uma pessoa média possui?"
+  },
+  {
+    "id": 50,
+    "category": "estimate",
+    "text": "Quantas xícaras de café por dia já seriam consideradas demais?"
+  },
+  {
+    "id": 51,
+    "category": "estimate",
+    "text": "Quantos minutos de atraso ainda são aceitáveis antes de alguém começar a ficar irritado?"
+  },
+  {
+    "id": 52,
+    "category": "everyday",
+    "text": "Diga algo que você quase certamente encontraria em uma praia."
+  },
+  {
+    "id": 53,
+    "category": "everyday",
+    "text": "Diga algo que você esperaria encontrar em uma caixa de ferramentas."
+  },
+  {
+    "id": 54,
+    "category": "everyday",
+    "text": "Qual é a primeira coisa que você normalmente faz antes de dormir?"
+  },
+  {
+    "id": 55,
+    "category": "everyday",
+    "text": "Diga uma coisa que você levaria para uma ilha deserta."
+  },
+  {
+    "id": 56,
+    "category": "everyday",
+    "text": "Diga algo que muita gente tem medo."
+  },
+  {
+    "id": 57,
+    "category": "everyday",
+    "text": "Diga algo que as pessoas vivem perdendo."
+  },
+  {
+    "id": 58,
+    "category": "everyday",
+    "text": "Diga algo que você provavelmente encontraria em uma mochila escolar."
+  },
+  {
+    "id": 59,
+    "category": "everyday",
+    "text": "Diga algo que as pessoas costumam colecionar."
+  },
+  {
+    "id": 60,
+    "category": "everyday",
+    "text": "Diga algo que você nunca emprestaria nem para um amigo."
+  },
+  {
+    "id": 61,
+    "category": "everyday",
+    "text": "Diga algo que seria um ótimo presente para quase qualquer pessoa."
+  },
+  {
+    "id": 62,
+    "category": "name-a",
+    "text": "Diga uma fruta vermelha que provavelmente seria a resposta mais popular."
+  },
+  {
+    "id": 63,
+    "category": "name-a",
+    "text": "Diga um animal que vive na água e que quase todo mundo lembraria."
+  },
+  {
+    "id": 64,
+    "category": "name-a",
+    "text": "Diga um jogo de videogame que quase todo mundo conhece."
+  },
+  {
+    "id": 65,
+    "category": "name-a",
+    "text": "Diga uma princesa da Disney que provavelmente seria muito escolhida."
+  },
+  {
+    "id": 66,
+    "category": "name-a",
+    "text": "Diga uma marca de tênis que quase todo mundo reconheceria."
+  },
+  {
+    "id": 67,
+    "category": "name-a",
+    "text": "Diga um personagem de Harry Potter que seria uma escolha óbvia."
+  },
+  {
+    "id": 68,
+    "category": "name-a",
+    "text": "Diga uma raça de gato que muita gente conheceria."
+  },
+  {
+    "id": 69,
+    "category": "name-a",
+    "text": "Diga um país da América do Sul que você apostaria que será muito citado."
+  },
+  {
+    "id": 70,
+    "category": "name-a",
+    "text": "Diga uma comida brasileira que quase todo mundo conhece."
+  },
+  {
+    "id": 71,
+    "category": "name-a",
+    "text": "Diga uma capital brasileira que provavelmente seria lembrada primeiro."
+  },
+  {
+    "id": 72,
+    "category": "name-a",
+    "text": "Diga um animal que voa que provavelmente apareceria entre as respostas mais comuns."
+  },
+  {
+    "id": 73,
+    "category": "name-a",
+    "text": "Diga uma marca de celular que provavelmente seria a resposta da maioria."
+  },
+  {
+    "id": 74,
+    "category": "name-a",
+    "text": "Diga um tipo de pão que quase todo mundo conhece."
+  },
+  {
+    "id": 75,
+    "category": "name-a",
+    "text": "Diga um país da Ásia que provavelmente seria muito citado."
+  },
+  {
+    "id": 76,
+    "category": "name-a",
+    "text": "Diga um sabor de pizza que você apostaria que venceria a rodada."
+  },
+  {
+    "id": 77,
+    "category": "name-a",
+    "text": "Diga um filme de terror que quase todo mundo reconheceria."
+  },
+  {
+    "id": 78,
+    "category": "name-a",
+    "text": "Diga um personagem de anime que provavelmente seria muito citado."
+  },
+  {
+    "id": 79,
+    "category": "name-a",
+    "text": "Diga uma fruta cítrica que seria uma resposta bastante comum."
+  },
+  {
+    "id": 80,
+    "category": "name-a",
+    "text": "Diga um tipo de calçado que quase todo mundo usa ou conhece."
+  },
+  {
+    "id": 81,
+    "category": "name-a",
+    "text": "Diga uma montanha famosa que quase todo mundo já ouviu mencionar."
+  },
+  {
+    "id": 82,
+    "category": "name-a",
+    "text": "Diga um estilo de dança que provavelmente seria lembrado primeiro."
+  },
+  {
+    "id": 83,
+    "category": "name-a",
+    "text": "Diga um meio de transporte público que quase todo mundo conhece."
+  },
+  {
+    "id": 84,
+    "category": "name-a",
+    "text": "Diga um personagem da Marvel que provavelmente seria o mais citado."
+  },
+  {
+    "id": 85,
+    "category": "name-a",
+    "text": "Diga um personagem da DC que quase todo mundo reconheceria."
+  },
+  {
+    "id": 86,
+    "category": "name-a",
+    "text": "Diga uma sobremesa brasileira que provavelmente apareceria entre as mais citadas."
+  },
+  {
+    "id": 87,
+    "category": "name-a",
+    "text": "Diga um personagem de Os Simpsons que quase todo mundo conhece."
+  },
+  {
+    "id": 88,
+    "category": "name-a",
+    "text": "Diga um tipo de flor que provavelmente seria uma resposta popular."
+  },
+  {
+    "id": 89,
+    "category": "name-a",
+    "text": "Diga um personagem de Toy Story que quase todo mundo lembraria."
+  },
+  {
+    "id": 90,
+    "category": "name-a",
+    "text": "Diga um personagem de videogame que você acha que a maioria escolheria."
+  },
+  {
+    "id": 91,
+    "category": "name-a",
+    "text": "Diga uma marca de carro que provavelmente seria muito citada."
+  },
+  {
+    "id": 92,
+    "category": "name-a",
+    "text": "Diga um tipo de bolo que você apostaria que venceria uma votação."
+  },
+  {
+    "id": 93,
+    "category": "name-a",
+    "text": "Diga um personagem de Pokémon que quase todo mundo conhece."
+  },
+  {
+    "id": 94,
+    "category": "name-a",
+    "text": "Diga um animal que vive no deserto e que seria uma resposta popular."
+  },
+  {
+    "id": 95,
+    "category": "name-a",
+    "text": "Diga um filme indicado ao Oscar que quase todo mundo reconheceria."
+  },
+  {
+    "id": 96,
+    "category": "name-a",
+    "text": "Diga um esporte praticado na água que provavelmente seria lembrado primeiro."
+  },
+  {
+    "id": 97,
+    "category": "name-a",
+    "text": "Diga uma comida apimentada que muita gente conhece."
+  },
+  {
+    "id": 98,
+    "category": "name-a",
+    "text": "Diga um instrumento musical de sopro que quase todo mundo reconheceria."
+  },
+  {
+    "id": 99,
+    "category": "name-a",
+    "text": "Diga um personagem famoso que use uma máscara."
+  },
+  {
+    "id": 100,
+    "category": "name-a",
+    "text": "Diga um filme em que um animal seja um dos personagens principais."
+  },
+  {
+    "id": 101,
+    "category": "name-a",
+    "text": "Diga um animal conhecido por sua força."
+  },
+  {
+    "id": 102,
+    "category": "name-a",
+    "text": "Diga uma marca de maquiagem que quase todo mundo conhece."
+  },
+  {
+    "id": 103,
+    "category": "opinion",
+    "text": "Qual é o melhor acompanhamento para batata frita?"
+  },
+  {
+    "id": 104,
+    "category": "opinion",
+    "text": "Qual seria o pior lugar possível para ter um primeiro encontro?"
+  },
+  {
+    "id": 105,
+    "category": "opinion",
+    "text": "Qual é a melhor coisa para fazer em um dia chuvoso?"
+  },
+  {
+    "id": 106,
+    "category": "opinion",
+    "text": "Qual é a melhor comida para comer de madrugada?"
+  },
+  {
+    "id": 107,
+    "category": "opinion",
+    "text": "Qual é o pior sabor de sorvete que alguém poderia escolher?"
+  },
+  {
+    "id": 108,
+    "category": "opinion",
+    "text": "Qual é o pior hábito que uma pessoa pode ter?"
+  },
+  {
+    "id": 109,
+    "category": "opinion",
+    "text": "Qual é a melhor comida brasileira?"
+  },
+  {
+    "id": 110,
+    "category": "opinion",
+    "text": "Qual é a pior coisa para esquecer em casa antes de sair?"
+  },
+  {
+    "id": 111,
+    "category": "opinion",
+    "text": "Qual é a melhor comida para compartilhar com amigos?"
+  },
+  {
+    "id": 112,
+    "category": "opinion",
+    "text": "Qual é a pior coisa que pode acontecer durante uma viagem?"
+  },
+  {
+    "id": 113,
+    "category": "opinion",
+    "text": "Qual é o melhor tipo de música para uma festa?"
+  },
+  {
+    "id": 114,
+    "category": "opinion",
+    "text": "Qual é o melhor lanche para comer enquanto assiste a um filme?"
+  },
+  {
+    "id": 115,
+    "category": "estimate",
+    "text": "Quantos minutos uma pessoa consegue ficar olhando para o celular sem perceber o tempo passar?"
+  },
+  {
+    "id": 116,
+    "category": "estimate",
+    "text": "Quantos minutos dura, em média, um banho comum?"
+  },
+  {
+    "id": 117,
+    "category": "estimate",
+    "text": "Quantas mensagens uma pessoa costuma enviar em um dia?"
+  },
+  {
+    "id": 118,
+    "category": "estimate",
+    "text": "Quantas pessoas você acha que cabem em uma sala de cinema?"
+  },
+  {
+    "id": 119,
+    "category": "estimate",
+    "text": "Quantas horas por dia uma pessoa comum passa na internet?"
+  },
+  {
+    "id": 120,
+    "category": "estimate",
+    "text": "Quantos minutos é aceitável esperar alguém que está atrasado?"
+  },
+  {
+    "id": 121,
+    "category": "estimate",
+    "text": "Quantos anos você acha que dura, em média, um celular antes de ser trocado?"
+  },
+  {
+    "id": 122,
+    "category": "estimate",
+    "text": "Quantos minutos uma pessoa normalmente demora para se arrumar para sair?"
+  },
+  {
+    "id": 123,
+    "category": "everyday",
+    "text": "Diga algo que as pessoas costumam fazer quando estão nervosas."
+  },
+  {
+    "id": 124,
+    "category": "everyday",
+    "text": "Diga algo que você faz quase automaticamente quando está com fome."
+  },
+  {
+    "id": 125,
+    "category": "everyday",
+    "text": "Diga algo que pode quebrar com facilidade."
+  },
+  {
+    "id": 126,
+    "category": "everyday",
+    "text": "Diga algo que quase sempre aparece em uma festa."
+  },
+  {
+    "id": 127,
+    "category": "everyday",
+    "text": "Diga a primeira coisa que muita gente faz ao acordar."
+  },
+  {
+    "id": 128,
+    "category": "everyday",
+    "text": "Diga algo que você faz quando está com frio."
+  },
+  {
+    "id": 129,
+    "category": "everyday",
+    "text": "Diga algo que as pessoas frequentemente esquecem de levar em viagens."
+  },
+  {
+    "id": 130,
+    "category": "everyday",
+    "text": "Diga algo que muita gente costuma fazer no fim de semana."
+  },
+  {
+    "id": 131,
+    "category": "everyday",
+    "text": "Diga algo que as pessoas usam para se proteger da chuva."
+  },
+  {
+    "id": 132,
+    "category": "everyday",
+    "text": "Diga algo que você costuma fazer quando está entediado."
+  },
+  {
+    "id": 133,
+    "category": "everyday",
+    "text": "Diga algo que você pode encontrar em um parque de diversões."
+  },
+  {
+    "id": 134,
+    "category": "everyday",
+    "text": "Diga algo que costuma aparecer em uma festa de aniversário."
+  },
+  {
+    "id": 135,
+    "category": "everyday",
+    "text": "Diga algo que você pode encontrar em um aeroporto."
+  },
+  {
+    "id": 136,
+    "category": "everyday",
+    "text": "Diga algo que você costuma fazer no celular."
+  },
+  {
+    "id": 137,
+    "category": "everyday",
+    "text": "Diga algo que as pessoas costumam fazer enquanto assistem TV."
+  },
+  {
+    "id": 138,
+    "category": "everyday",
+    "text": "Diga algo que você levaria para passar um dia inteiro na praia."
+  },
+  {
+    "id": 139,
+    "category": "everyday",
+    "text": "Diga algo que as pessoas costumam fazer quando estão felizes."
+  },
+  {
+    "id": 140,
+    "category": "everyday",
+    "text": "Diga algo que você usa para cortar alguma coisa."
+  },
+  {
+    "id": 141,
+    "category": "everyday",
+    "text": "Diga algo que as pessoas costumam fazer nas férias."
+  },
+  {
+    "id": 142,
+    "category": "everyday",
+    "text": "Diga algo que você faz quando está com sono."
+  },
+  {
+    "id": 143,
+    "category": "opinion",
+    "text": "Qual é a primeira coisa que vem à sua cabeça quando alguém diz \"férias\"?"
+  },
+  {
+    "id": 144,
+    "category": "opinion",
+    "text": "Qual seria a primeira coisa que você faria se ganhasse R$ 1 milhão?"
+  },
+  {
+    "id": 145,
+    "category": "opinion",
+    "text": "Qual é a coisa mais importante que você levaria para uma ilha deserta?"
+  },
+  {
+    "id": 146,
+    "category": "opinion",
+    "text": "Se sua casa estivesse pegando fogo e você pudesse salvar apenas uma coisa, o que levaria?"
+  },
+  {
+    "id": 147,
+    "category": "opinion",
+    "text": "Qual é a desculpa mais comum para alguém chegar atrasado?"
+  },
+  {
+    "id": 148,
+    "category": "opinion",
+    "text": "Qual é a primeira coisa que a maioria das pessoas faz ao acordar?"
+  },
+  {
+    "id": 149,
+    "category": "opinion",
+    "text": "Qual aplicativo você acha que as pessoas mais abrem sem nem perceber?"
+  },
+  {
+    "id": 150,
+    "category": "opinion",
+    "text": "Qual é a coisa mais difícil de resistir quando você está com muita fome?"
+  },
+  {
+    "id": 151,
+    "category": "opinion",
+    "text": "Qual é a coisa mais provável que alguém esqueça ao sair de casa?"
+  },
+  {
+    "id": 152,
+    "category": "opinion",
+    "text": "Se pudesse viajar agora para qualquer lugar do mundo, qual seria o primeiro destino escolhido?"
+  },
+  {
+    "id": 153,
+    "category": "opinion",
+    "text": "Se tivesse que comer a mesma coisa todos os dias durante um mês, o que escolheria?"
+  },
+  {
+    "id": 154,
+    "category": "opinion",
+    "text": "Qual seria a situação mais constrangedora para acontecer com você em público?"
+  },
+  {
+    "id": 155,
+    "category": "opinion",
+    "text": "Qual objeto doméstico seria mais assustador se de repente ganhasse vida?"
+  },
+  {
+    "id": 156,
+    "category": "opinion",
+    "text": "Qual animal seria o pior colega de quarto?"
+  },
+  {
+    "id": 157,
+    "category": "opinion",
+    "text": "Qual seria o pior lugar possível para encontrar seu ex?"
+  },
+  {
+    "id": 158,
+    "category": "opinion",
+    "text": "Qual é a coisa mais estranha que as pessoas fazem quando estão sozinhas?"
+  },
+  {
+    "id": 159,
+    "category": "opinion",
+    "text": "Qual seria o pior emprego possível para ter por apenas um dia?"
+  },
+  {
+    "id": 160,
+    "category": "opinion",
+    "text": "Qual objeto você provavelmente perderia se tivesse que carregá-lo o dia inteiro?"
+  },
+  {
+    "id": 161,
+    "category": "opinion",
+    "text": "Qual seria o pior lugar possível para ficar preso durante três horas?"
+  },
+  {
+    "id": 162,
+    "category": "opinion",
+    "text": "Qual é a coisa mais difícil de compartilhar com outra pessoa?"
+  },
+  {
+    "id": 163,
+    "category": "opinion",
+    "text": "Qual animal seria o pior presidente de uma empresa?"
+  },
+  {
+    "id": 164,
+    "category": "opinion",
+    "text": "Se pudesse escolher um animal para te proteger em uma briga, qual escolheria?"
+  },
+  {
+    "id": 165,
+    "category": "opinion",
+    "text": "Qual seria a coisa mais estranha para encontrar dentro da sua geladeira?"
+  },
+  {
+    "id": 166,
+    "category": "opinion",
+    "text": "Qual seria o pior nome possível para um cachorro?"
+  },
+  {
+    "id": 167,
+    "category": "opinion",
+    "text": "Qual comida seria mais assustadora se começasse a falar?"
+  },
+  {
+    "id": 168,
+    "category": "opinion",
+    "text": "Qual profissão ficaria mais engraçada se todo mundo tivesse que trabalhar usando fantasia?"
+  },
+  {
+    "id": 169,
+    "category": "opinion",
+    "text": "Qual animal seria o pior professor?"
+  },
+  {
+    "id": 170,
+    "category": "opinion",
+    "text": "Qual seria a pior coisa possível para alguém gritar durante um casamento?"
+  },
+  {
+    "id": 171,
+    "category": "opinion",
+    "text": "Qual seria o pior lugar possível para começar a tocar uma música muito alta?"
+  },
+  {
+    "id": 172,
+    "category": "opinion",
+    "text": "Qual seria o objeto mais estranho para ganhar de presente em um primeiro encontro?"
+  },
+  {
+    "id": 173,
+    "category": "opinion",
+    "text": "Qual animal teria mais chance de virar uma celebridade?"
+  },
+  {
+    "id": 174,
+    "category": "opinion",
+    "text": "Qual seria a pior coisa possível para ouvir do seu médico?"
+  },
+  {
+    "id": 175,
+    "category": "opinion",
+    "text": "Qual comida seria mais estranha para pedir em um primeiro encontro?"
+  },
+  {
+    "id": 176,
+    "category": "opinion",
+    "text": "Qual seria o pior nome possível para um restaurante?"
+  },
+  {
+    "id": 177,
+    "category": "opinion",
+    "text": "Se um zumbi invadisse sua casa, qual objeto você usaria para tentar combatê-lo?"
+  },
+  {
+    "id": 178,
+    "category": "dilemma",
+    "text": "Você apertaria um botão que te daria R$ 100 mil, mas faria uma pessoa aleatória no mundo morrer?"
+  },
+  {
+    "id": 179,
+    "category": "dilemma",
+    "text": "Você aceitaria ganhar R$ 1 milhão sabendo que ninguém descobriria, mas seu melhor amigo perderia R$ 100 mil?"
+  },
+  {
+    "id": 180,
+    "category": "dilemma",
+    "text": "Você apertaria um botão que garante que nunca mais terá problemas financeiros, mas nunca poderia contar a ninguém?"
+  },
+  {
+    "id": 181,
+    "category": "dilemma",
+    "text": "Se pudesse salvar apenas um, escolheria um desconhecido ou seu animal de estimação?"
+  },
+  {
+    "id": 182,
+    "category": "dilemma",
+    "text": "Você aceitaria saber exatamente quando vai morrer, mas não poderia contar a ninguém?"
+  },
+  {
+    "id": 183,
+    "category": "dilemma",
+    "text": "Você aceitaria R$ 500 mil em troca de nunca mais usar redes sociais?"
+  },
+  {
+    "id": 184,
+    "category": "dilemma",
+    "text": "Você preferiria descobrir uma verdade dolorosa sobre sua vida ou continuar acreditando em uma mentira confortável?"
+  },
+  {
+    "id": 185,
+    "category": "dilemma",
+    "text": "Você denunciaria um amigo por fazer algo errado se soubesse que isso poderia destruir a vida dele?"
+  },
+  {
+    "id": 186,
+    "category": "dilemma",
+    "text": "Você apagaria uma lembrança muito dolorosa se isso também apagasse tudo o que aprendeu com ela?"
+  },
+  {
+    "id": 187,
+    "category": "dilemma",
+    "text": "Você trocaria 10 anos da sua vida por R$ 10 milhões hoje?"
+  },
+  {
+    "id": 188,
+    "category": "dilemma",
+    "text": "Você aceitaria ficar famoso no mundo inteiro sabendo que nunca mais teria privacidade?"
+  },
+  {
+    "id": 189,
+    "category": "dilemma",
+    "text": "Você salvaria cinco pessoas que não conhece se isso significasse sacrificar um amigo?"
+  },
+  {
+    "id": 190,
+    "category": "dilemma",
+    "text": "Você aceitaria conhecer todos os detalhes do seu futuro, sabendo que não poderia mudar nenhum deles?"
+  },
+  {
+    "id": 191,
+    "category": "dilemma",
+    "text": "Você aceitaria ficar extremamente rico sabendo que nunca mais poderia ter amigos verdadeiros?"
+  },
+  {
+    "id": 192,
+    "category": "dilemma",
+    "text": "Você contaria uma verdade que faria duas pessoas terminarem um relacionamento, sabendo que é a única pessoa que conhece a verdade?"
+  },
+  {
+    "id": 193,
+    "category": "dilemma",
+    "text": "Você aceitaria R$ 10 milhões sabendo que isso faria a vida de uma pessoa que você nunca conheceu ficar muito pior?"
+  },
+  {
+    "id": 194,
+    "category": "dilemma",
+    "text": "Você mentiria para proteger seu melhor amigo de uma consequência que ele realmente merece?"
+  },
+  {
+    "id": 195,
+    "category": "dilemma",
+    "text": "Se pudesse apagar uma pessoa da história para melhorar o mundo, você faria isso?"
+  },
+  {
+    "id": 196,
+    "category": "dilemma",
+    "text": "Você salvaria uma pessoa que ama sabendo que isso faria cinco desconhecidos morrerem?"
+  },
+  {
+    "id": 197,
+    "category": "dilemma",
+    "text": "Você aceitaria ser odiado por todo mundo se soubesse que isso tornaria o mundo um lugar melhor?"
+  },
+  {
+    "id": 198,
+    "category": "dilemma",
+    "text": "Você entregaria um amigo à polícia se soubesse que ele cometeu um crime grave?"
+  },
+  {
+    "id": 199,
+    "category": "dilemma",
+    "text": "Você aceitaria receber R$ 1 milhão se ninguém jamais pudesse descobrir de onde veio o dinheiro?"
+  },
+  {
+    "id": 200,
+    "category": "dilemma",
+    "text": "Você salvaria dez desconhecidos ou garantiria que sua família nunca mais passasse por nenhuma dificuldade financeira?"
+  },
+  {
+    "id": 201,
+    "category": "dilemma",
+    "text": "Se pudesse descobrir uma informação verdadeira que destruiria sua família, você escolheria saber?"
+  },
+  {
+    "id": 202,
+    "category": "dilemma",
+    "text": "Você aceitaria viver uma vida perfeita sabendo que ela é uma simulação e que nada é realmente real?"
+  },
+  {
+    "id": 203,
+    "category": "opinion",
+    "text": "O que é pior: ser odiado por todo mundo ou ser esquecido por todo mundo?"
+  },
+  {
+    "id": 204,
+    "category": "opinion",
+    "text": "O que você preferiria perder: todas as suas fotos ou todas as suas mensagens?"
+  },
+  {
+    "id": 205,
+    "category": "opinion",
+    "text": "O que é mais importante: dinheiro ou tempo livre?"
+  },
+  {
+    "id": 206,
+    "category": "opinion",
+    "text": "O que você preferiria nunca mais sentir: medo ou tristeza?"
+  },
+  {
+    "id": 207,
+    "category": "opinion",
+    "text": "O que é pior: saber que alguém não gosta de você ou nunca descobrir o que essa pessoa realmente pensa?"
+  },
+  {
+    "id": 208,
+    "category": "opinion",
+    "text": "Você preferiria ser muito inteligente ou ser extremamente querido pelas pessoas?"
+  },
+  {
+    "id": 209,
+    "category": "opinion",
+    "text": "Você preferiria ter uma vida longa e comum ou uma vida curta e extraordinária?"
+  },
+  {
+    "id": 210,
+    "category": "opinion",
+    "text": "Você preferiria poder voltar ao passado ou conhecer o futuro?"
+  },
+  {
+    "id": 211,
+    "category": "opinion",
+    "text": "Você preferiria nunca mais precisar trabalhar ou nunca mais precisar dormir?"
+  },
+  {
+    "id": 212,
+    "category": "opinion",
+    "text": "Você preferiria saber tudo ou ter o poder de esquecer qualquer coisa?"
+  },
+  {
+    "id": 213,
+    "category": "estimate",
+    "text": "Que porcentagem das pessoas você acha que mentiria para ganhar R$ 1 milhão?"
+  },
+  {
+    "id": 214,
+    "category": "estimate",
+    "text": "Quantas pessoas você acha que olham o celular nos primeiros cinco minutos depois de acordar?"
+  },
+  {
+    "id": 215,
+    "category": "estimate",
+    "text": "Quantos amigos de verdade uma pessoa costuma ter?"
+  },
+  {
+    "id": 216,
+    "category": "estimate",
+    "text": "Quanto dinheiro seria suficiente para você nunca mais precisar trabalhar?"
+  },
+  {
+    "id": 217,
+    "category": "estimate",
+    "text": "Quantos minutos por dia uma pessoa comum passa pensando em comida?"
+  },
+  {
+    "id": 218,
+    "category": "estimate",
+    "text": "Quantas vezes por dia uma pessoa olha para o próprio celular?"
+  },
+  {
+    "id": 219,
+    "category": "estimate",
+    "text": "Com quantos anos uma pessoa deveria se aposentar?"
+  },
+  {
+    "id": 220,
+    "category": "estimate",
+    "text": "Quanto tempo você acha que alguém consegue guardar um segredo realmente importante?"
+  },
+  {
+    "id": 221,
+    "category": "estimate",
+    "text": "Quantas vezes por mês seria aceitável faltar a um compromisso simplesmente por preguiça?"
+  },
+  {
+    "id": 222,
+    "category": "estimate",
+    "text": "Quanto dinheiro faria você aceitar a ideia de mudar de cidade imediatamente?"
+  },
+  {
+    "id": 223,
+    "category": "everyday",
+    "text": "Você entra em um elevador e percebe que está sozinho. Qual é a primeira coisa que faz?"
+  },
+  {
+    "id": 224,
+    "category": "everyday",
+    "text": "Você encontra alguém conhecido na rua, mas esqueceu completamente o nome da pessoa. O que faz?"
+  },
+  {
+    "id": 225,
+    "category": "everyday",
+    "text": "Você manda uma mensagem falando mal de alguém e percebe que enviou para a própria pessoa. Qual é sua primeira reação?"
+  },
+  {
+    "id": 226,
+    "category": "dilemma",
+    "text": "Você percebe que alguém está usando uma roupa claramente do avesso. Você avisa?"
+  },
+  {
+    "id": 227,
+    "category": "everyday",
+    "text": "Você conta uma piada em um grupo e absolutamente ninguém entende. O que faz?"
+  },
+  {
+    "id": 228,
+    "category": "everyday",
+    "text": "Você acena para alguém e percebe que a pessoa nem estava acenando para você. O que faz?"
+  },
+  {
+    "id": 229,
+    "category": "dilemma",
+    "text": "Você percebe que alguém está falando mal de você sem saber que você está ouvindo. Você continua escutando?"
+  },
+  {
+    "id": 230,
+    "category": "dilemma",
+    "text": "Você recebe R$ 20 a mais de troco. Você devolve?"
+  },
+  {
+    "id": 231,
+    "category": "dilemma",
+    "text": "Você encontra um celular desbloqueado sobre uma mesa. Qual é a primeira coisa que faria?"
+  },
+  {
+    "id": 232,
+    "category": "dilemma",
+    "text": "Você descobre que seu amigo está sendo traído. Você conta para ele?"
+  },
+  {
+    "id": 233,
+    "category": "dilemma",
+    "text": "Você prefere ganhar R$ 5 mil hoje ou R$ 10 mil daqui a um ano?"
+  },
+  {
+    "id": 234,
+    "category": "opinion",
+    "text": "Se ganhasse R$ 100 mil, qual seria a primeira coisa que compraria?"
+  },
+  {
+    "id": 235,
+    "category": "dilemma",
+    "text": "Você aceitaria trabalhar em um emprego que odeia se recebesse cinco vezes mais?"
+  },
+  {
+    "id": 236,
+    "category": "estimate",
+    "text": "Quanto dinheiro seria suficiente para você considerar alguém realmente rico?"
+  },
+  {
+    "id": 237,
+    "category": "dilemma",
+    "text": "Você emprestaria R$ 10 mil para seu melhor amigo sabendo que talvez nunca recebesse de volta?"
+  },
+  {
+    "id": 238,
+    "category": "dilemma",
+    "text": "Você preferiria ter uma casa própria ou nunca mais precisar pagar aluguel?"
+  },
+  {
+    "id": 239,
+    "category": "dilemma",
+    "text": "Você aceitaria ganhar R$ 100 mil em troca de nunca mais viajar de avião?"
+  },
+  {
+    "id": 240,
+    "category": "dilemma",
+    "text": "Se ganhasse R$ 10 milhões na loteria, você contaria para sua família?"
+  },
+  {
+    "id": 241,
+    "category": "dilemma",
+    "text": "Você preferiria ganhar R$ 1 milhão sozinho ou R$ 500 mil junto com seu melhor amigo?"
+  },
+  {
+    "id": 242,
+    "category": "dilemma",
+    "text": "Você aceitaria trocar cinco anos da sua vida por R$ 5 milhões?"
+  },
+  {
+    "id": 243,
+    "category": "opinion",
+    "text": "O que é mais importante em um relacionamento: amor, confiança ou atração?"
+  },
+  {
+    "id": 244,
+    "category": "dilemma",
+    "text": "Você perdoaria uma traição?"
+  },
+  {
+    "id": 245,
+    "category": "dilemma",
+    "text": "Você voltaria com um ex que foi o amor da sua vida?"
+  },
+  {
+    "id": 246,
+    "category": "dilemma",
+    "text": "Você preferiria descobrir que seu parceiro mente para você ou que deixou de te amar?"
+  },
+  {
+    "id": 247,
+    "category": "dilemma",
+    "text": "Você contaria ao seu melhor amigo que não gosta da pessoa com quem ele está namorando?"
+  },
+  {
+    "id": 248,
+    "category": "dilemma",
+    "text": "Você namoraria alguém que ganha dez vezes menos que você?"
+  },
+  {
+    "id": 249,
+    "category": "dilemma",
+    "text": "Você ficaria com alguém que ama, mas que seus amigos e sua família detestam?"
+  },
+  {
+    "id": 250,
+    "category": "dilemma",
+    "text": "Você preferiria nunca mais se apaixonar ou se apaixonar sabendo que sempre vai terminar mal?"
+  },
+  {
+    "id": 251,
+    "category": "opinion",
+    "text": "Para um relacionamento, você escolheria alguém extremamente divertido ou extremamente bonito?"
+  },
+  {
+    "id": 252,
+    "category": "opinion",
+    "text": "Qual é o maior motivo que leva alguém a terminar um relacionamento?"
+  },
+  {
+    "id": 253,
+    "category": "opinion",
+    "text": "Se pudesse trocar de vida com qualquer pessoa por 24 horas, quem escolheria?"
+  },
+  {
+    "id": 254,
+    "category": "opinion",
+    "text": "Se os animais pudessem falar, qual seria o mais mal-educado?"
+  },
+  {
+    "id": 255,
+    "category": "opinion",
+    "text": "Se tivesse que morar dentro de um filme por um ano, qual escolheria?"
+  },
+  {
+    "id": 256,
+    "category": "opinion",
+    "text": "Se pudesse eliminar uma invenção da história, qual escolheria?"
+  },
+  {
+    "id": 257,
+    "category": "opinion",
+    "text": "Se pudesse adicionar uma única regra para o mundo inteiro seguir, qual seria?"
+  },
+  {
+    "id": 258,
+    "category": "opinion",
+    "text": "Se pudesse dominar instantaneamente qualquer habilidade, qual escolheria?"
+  },
+  {
+    "id": 259,
+    "category": "opinion",
+    "text": "Se sua vida tivesse uma trilha sonora, qual música tocaria na maior parte do tempo?"
+  },
+  {
+    "id": 260,
+    "category": "opinion",
+    "text": "Se pudesse apagar uma coisa da vida moderna, o que escolheria?"
+  },
+  {
+    "id": 261,
+    "category": "opinion",
+    "text": "Se pudesse transformar qualquer animal no tamanho de um cavalo, qual escolheria?"
+  },
+  {
+    "id": 262,
+    "category": "opinion",
+    "text": "Se pudesse fazer uma única pergunta e receber uma resposta 100% verdadeira, o que perguntaria?"
+  },
+  {
+    "id": 263,
+    "category": "herd",
+    "text": "Qual número entre 1 e 10 você acha que a maioria das pessoas escolheria?"
+  },
+  {
+    "id": 264,
+    "category": "herd",
+    "text": "Qual letra do alfabeto você acha que a maioria das pessoas escolheria?"
+  },
+  {
+    "id": 265,
+    "category": "herd",
+    "text": "Qual número entre 1 e 100 você acha que a maioria escolheria?"
+  },
+  {
+    "id": 266,
+    "category": "herd",
+    "text": "Qual cor você acha que a maioria das pessoas escolheria para pintar uma casa?"
+  },
+  {
+    "id": 267,
+    "category": "herd",
+    "text": "Qual animal você acha que a maioria das pessoas escolheria para ter como animal de estimação?"
+  },
+  {
+    "id": 268,
+    "category": "herd",
+    "text": "Qual superpoder você acha que a maioria das pessoas escolheria?"
+  },
+  {
+    "id": 269,
+    "category": "herd",
+    "text": "Qual destino de viagem você acha que a maioria das pessoas escolheria?"
+  },
+  {
+    "id": 270,
+    "category": "herd",
+    "text": "Qual comida você acha que a maioria das pessoas escolheria para comer agora?"
+  },
+  {
+    "id": 271,
+    "category": "herd",
+    "text": "Qual personagem fictício você acha que a maioria escolheria para ser seu melhor amigo?"
+  },
+  {
+    "id": 272,
+    "category": "herd",
+    "text": "Qual celebridade você acha que a maioria das pessoas escolheria para jantar?"
+  }
+]

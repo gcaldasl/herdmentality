@@ -1,0 +1,189 @@
+@import "tailwindcss";
+
+/* ---- Herd Mentality palette (farm / pasture) ---- */
+:root {
+  --c-cream: #fbf7ee;
+  --c-cream-deep: #f3ecdc;
+  --c-surface: #ffffff;
+  --c-ink: #22271f;
+  --c-field: #1b3a2b;
+  --c-pasture: #3b9c5a;
+  --c-pasture-deep: #2c7a45;
+  --c-pasture-soft: #e3f1e6;
+  --c-cow: #f49cbb;
+  --c-cow-deep: #e85d8a;
+  --c-cow-soft: #fde7ef;
+  --c-hay: #e8b84b;
+  --c-hay-soft: #fbf0d3;
+  --c-barn: #d6553b;
+  --c-barn-soft: #fbe3dd;
+  --c-sky: #7fb3d5;
+  --c-sky-soft: #e4f0f8;
+  --c-border: #e5decb;
+  --c-muted: #6b6659;
+  /* hard "board game" offset shadow colour */
+  --c-shadow: #d9cfb6;
+  --c-hill-1: #cfe6c9;
+  --c-hill-2: #b4d9ac;
+  --c-hill-3: #9acb92;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --c-cream: #14231b;
+    --c-cream-deep: #102019;
+    --c-surface: #1f3328;
+    --c-ink: #f4f1e6;
+    --c-field: #0f1f17;
+    --c-pasture: #55bd72;
+    --c-pasture-deep: #3f9f5b;
+    --c-pasture-soft: #294536;
+    --c-cow: #f7adc7;
+    --c-cow-deep: #f887b0;
+    --c-cow-soft: #4a2a37;
+    --c-hay: #f0c868;
+    --c-hay-soft: #43391e;
+    --c-barn: #ec7a61;
+    --c-barn-soft: #4a2a22;
+    --c-sky: #93c4e0;
+    --c-sky-soft: #203a48;
+    --c-border: #3a5443;
+    --c-muted: #c3bdad;
+    --c-shadow: #0b1711;
+    --c-hill-1: #1a2e22;
+    --c-hill-2: #1d3527;
+    --c-hill-3: #213c2c;
+  }
+}
+
+@theme inline {
+  --color-cream: var(--c-cream);
+  --color-cream-deep: var(--c-cream-deep);
+  --color-surface: var(--c-surface);
+  --color-ink: var(--c-ink);
+  --color-field: var(--c-field);
+  --color-pasture: var(--c-pasture);
+  --color-pasture-deep: var(--c-pasture-deep);
+  --color-pasture-soft: var(--c-pasture-soft);
+  --color-cow: var(--c-cow);
+  --color-cow-deep: var(--c-cow-deep);
+  --color-cow-soft: var(--c-cow-soft);
+  --color-hay: var(--c-hay);
+  --color-hay-soft: var(--c-hay-soft);
+  --color-barn: var(--c-barn);
+  --color-barn-soft: var(--c-barn-soft);
+  --color-sky: var(--c-sky);
+  --color-sky-soft: var(--c-sky-soft);
+  --color-border: var(--c-border);
+  --color-muted: var(--c-muted);
+  --color-shadow: var(--c-shadow);
+
+  --font-sans: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-fredoka), var(--font-geist-sans), ui-sans-serif, sans-serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, monospace;
+
+  --shadow-card: 0 4px 0 0 var(--c-shadow);
+  --shadow-card-sm: 0 2px 0 0 var(--c-shadow);
+  --shadow-btn: 0 4px 0 0 var(--c-pasture-deep);
+  --shadow-btn-cow: 0 4px 0 0 #b73c68;
+
+  --animate-pop: pop 360ms cubic-bezier(0.34, 1.56, 0.64, 1) both;
+  --animate-rise: rise 420ms cubic-bezier(0.22, 1, 0.36, 1) both;
+  --animate-fade: fade 300ms ease-out both;
+  --animate-wiggle: wiggle 2.4s ease-in-out infinite;
+  --animate-bob: bob 3s ease-in-out infinite;
+  --animate-shake: shake 400ms ease-in-out;
+  --animate-pulse-soft: pulse-soft 1.6s ease-in-out infinite;
+
+  @keyframes pop {
+    0% { opacity: 0; transform: scale(0.6); }
+    100% { opacity: 1; transform: scale(1); }
+  }
+  @keyframes rise {
+    0% { opacity: 0; transform: translateY(14px); }
+    100% { opacity: 1; transform: translateY(0); }
+  }
+  @keyframes fade {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+  @keyframes wiggle {
+    0%, 100% { transform: rotate(-4deg); }
+    50% { transform: rotate(4deg); }
+  }
+  @keyframes bob {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-6px); }
+  }
+  @keyframes shake {
+    0%, 100% { transform: translateX(0); }
+    20%, 60% { transform: translateX(-6px); }
+    40%, 80% { transform: translateX(6px); }
+  }
+  @keyframes pulse-soft {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.35; }
+  }
+}
+
+html {
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  background-color: var(--c-cream);
+  /* faint dotted "paper" texture */
+  background-image: radial-gradient(
+    color-mix(in srgb, var(--c-border) 70%, transparent) 1px,
+    transparent 1px
+  );
+  background-size: 22px 22px;
+  color: var(--c-ink);
+  font-family: var(--font-sans);
+}
+
+/* You hold the Pink Cow: your whole screen blushes. */
+html[data-cow-mine] body {
+  background-color: color-mix(in srgb, var(--c-cream) 86%, var(--c-cow) 14%);
+  transition: background-color 600ms ease;
+}
+
+::placeholder {
+  color: var(--c-muted);
+  opacity: 0.6;
+}
+
+::selection {
+  background: var(--c-hay);
+  color: #22271f;
+}
+
+:focus-visible {
+  outline: 3px solid var(--c-hay);
+  outline-offset: 2px;
+}
+
+/* ---- confetti ---- */
+.confetti-piece {
+  position: absolute;
+  top: -12px;
+  width: 9px;
+  height: 14px;
+  border-radius: 2px;
+  animation: confetti-fall var(--dur, 2.6s) cubic-bezier(0.3, 0.6, 0.4, 1) var(--delay, 0s) forwards;
+  opacity: 0;
+}
+
+@keyframes confetti-fall {
+  0% { opacity: 1; transform: translate3d(0, 0, 0) rotate(0deg); }
+  100% { opacity: 0; transform: translate3d(var(--dx, 0), 105vh, 0) rotate(var(--rot, 540deg)); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 1ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 1ms !important;
+  }
+  .confetti-piece { display: none; }
+}

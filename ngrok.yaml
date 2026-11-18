@@ -1,0 +1,14 @@
+version: "2"
+
+# The whole app (frontend + API + WebSocket) is served on one port by the
+# Docker `proxy` service, so a single tunnel is enough.
+#
+#   docker compose up --build
+#   ngrok start --config ngrok.yaml app
+#
+# ...or just: ngrok http 3000
+
+tunnels:
+  app:
+    addr: 3000
+    proto: http

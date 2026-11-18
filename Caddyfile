@@ -1,0 +1,21 @@
+# Single entrypoint on :3000 — this is the only port you expose / ngrok.
+#   /api/*  -> FastAPI (prefix stripped): /api/rooms  ->  api:8000/rooms
+#   /ws/*   -> FastAPI WebSocket (Caddy upgrades automatically)
+#   /*      -> the Next.js server
+:3000 {
+	@api path /api/*
+	handle @api {
+		uri strip_prefix /api
+		reverse_proxy api:8000
+	}
+
+	handle /ws/* {
+		reverse_proxy api:8000
+	}
+
+	handle {
+		reverse_proxy web:3000
+	}
+
+	encode gzip
+}
